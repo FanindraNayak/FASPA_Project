@@ -1,0 +1,47 @@
+      body {
+        padding:0px;
+        font-family: sans-serif;
+        margin:0;
+        background: url(pro.jpg) no-repeat;
+        background-size: cover;
+      }
+.sign-up{
+  width:300px;
+  position:absolute; 
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  color: white;
+      }
+.sign-up h1{
+  float:left;
+  font-size:40px;
+  border-bottom: 5px solid rgb(70, 35, 134);
+  margin-bottom:25px;
+}
+.text{
+    width:100%;
+    overflow: hidden;
+    font-size: 15px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 4px solid rgb(70, 35, 134);
+}
+.text input{
+    border: 0px;
+    outline: 0px;
+    background: none;
+    color: white;
+    width: 250px;
+    margin: 0 10px;
+}
+.btn{
+ float: center;
+ width: 100%;
+ color: white;
+ border:2px solid rgb(70, 35, 134) ;
+  background: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
